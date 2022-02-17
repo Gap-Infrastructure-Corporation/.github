@@ -8,5 +8,5 @@ What began as a start-up named Barzani Group in the construction space has now d
 ### OUR FUTURE, AN EXISTING WORK IN PROGRESS
 The Gap Infrastructure Corporation is intent on leaving a bequest that’s much more precious: empowering people with jobs, skills, homes and the wherewithal to live a life of dignity and optimism.
 
-[![Build](https://github.com/Gap-Infrastructure-Corporation/M3/actions/workflows/dev.yml/badge.svg)](https://github.com/Gap-Infrastructure-Corporation/M3/actions/workflows/dev.yml)
-[![CI](https://github.com/Gap-Infrastructure-Corporation/M3/actions/workflows/main.yml/badge.svg)](https://github.com/Gap-Infrastructure-Corporation/M3/actions/workflows/main.yml)
+[![M3 Preview Build](https://github.com/Gap-Infrastructure-Corporation/M3/actions/workflows/dev.yml/badge.svg)](https://github.com/Gap-Infrastructure-Corporation/M3/actions/workflows/dev.yml?branch=development)
+[![M3 Live build](https://github.com/Gap-Infrastructure-Corporation/M3/actions/workflows/main.yml/badge.svg)](https://github.com/Gap-Infrastructure-Corporation/M3/actions/workflows/main.yml)
